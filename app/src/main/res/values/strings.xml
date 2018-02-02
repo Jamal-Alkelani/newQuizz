@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title">"Guess The Language"</string>
+    <!--Questions-->
+    <string name="Q1">"Q1:Est-ce que vous pouvez m'aider?"</string>
+    <string name="Q2">"Q2:Mi sei mancato molto!"</string>
+    <string name="Q3">"Q3:أهلا وسهلا بك في دورة الاندرويد"</string>
+    <string name="Q4">"Q4:おねがいします。"</string>
+    <string name="Q5">"Q5:祝你好運"</string>
+    <string name="Q6">"Q6:Me llamo Gustavo Martinez"</string>
+    <!-- languages names-->
+    <string name="France">"France"</string>
+    <string name="Italian">"Italian"</string>
+    <string name="Arabic">"Arabic"</string>
+    <string name="Japanese">"Japanese"</string>
+    <string name="Chinese">"Chinese"</string>
+    <string name="Spanish">"Spanish"</string>
+    <string name="Bengali">"Bengali"</string>
+    <string name="Greek">"Greek"</string>
+    <string name="Russian">"Russian"</string>
+    <string name="Urdu">"Urdu"</string>
+</resources>
